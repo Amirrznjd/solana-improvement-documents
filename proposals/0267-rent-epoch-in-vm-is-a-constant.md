@@ -1,4 +1,4 @@
----
+1---
 simd: '0267'
 title: Sets rent_epoch to a constant in the VM
 authors:
@@ -8,7 +8,7 @@ type: Core
 status: Review
 created: 2025-03-25
 feature: RENtePQcDLrAbxAsP3k8dwVcnNYQ466hi2uKvALjnXx
----
+-1--
 
 ## Summary
 
